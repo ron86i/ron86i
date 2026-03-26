@@ -46,9 +46,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ron86i/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkedin" width="50" height="50" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="linkedin" width="60" height="60" />
   </a>
-  
+  <a href="https://t.me/ron86i" target="_blank">
+    <img src="https://skills-icons.vercel.app/api/icons?i=telegram" alt="Telegram" width="60" height="60" />
+  </a>
+  <a href="mailto:ronaldorua86@gmail.com" target="_blank">
+    <img src="https://skills-icons.vercel.app/api/icons?i=gmail" alt="gmail" width="60" height="60" />
+  </a>
 </p>
 
 ---

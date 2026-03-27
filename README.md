@@ -32,8 +32,8 @@
 ## <img src="https://media.giphy.com/media/qx8pi39gbyvuU/giphy.gif" width="25"> GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ron86i&show_icons=true&theme=merko&hide_border=true" alt="Ronaldo's stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ron86i&layout=compact&theme=merko&hide_border=true" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ron86i&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Ronaldo's stats" height="150" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ron86i&layout=compact&theme=merko&hide_border=true" alt="Top Langs" height="150" />
 </p>
 
 <p align="center">

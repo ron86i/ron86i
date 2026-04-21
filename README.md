@@ -1,59 +1,139 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Hi, I'm Ronaldo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center">
+  Hey, I'm Ronaldo
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+</h1>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=false&vCenter=true&width=600&height=100&lines=Informatic+Engineer;Backend+Developer;Expertise+in+Go,+Node.js+%26+Java;Building+Scalable+Solutions;Always+learning+new+tech">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=22&center=true&vCenter=true&width=650&height=80&lines=Computer+Engineer+%F0%9F%8E%93;Backend+Developer+%7C+API+Architect;Go+%7C+Node.js+%7C+Java+Specialist;Building+Scalable%2C+High-Performance+Systems;Always+Shipping%2C+Always+Learning" />
   </a>
 </p>
-
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYTNieXp6ZXY5NjF4ZDN4ZzI5amI3ZTR4MDlzN3hjeW9pZGxveCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3orieOf54689w5pQ9a/giphy.gif" width="25"> Overview
-📚 **Computer Engineering** at [uajms.edu.bo](https://www.uajms.edu.bo/)
-
-🌱 I am always learning and exploring new technologies and frameworks.
-
-💡 I love solving problems and creating innovative solutions with a focus on performance.
-
-🚀 Focused on **Backend Development**, **API Design**, and **Software Architecture**.
 
 ---
 
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="25"> My Tech Stack
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYTNieXp6ZXY5NjF4ZDN4ZzI5amI3ZTR4MDlzN3hjeW9pZGxveCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3orieOf54689w5pQ9a/giphy.gif" width="25"> About Me
+
+```go
+package main
+
+type Developer struct {
+    Name       string
+    Education  string
+    University string
+    Focus      []string
+    Mindset    string
+    OpenSource string
+}
+
+func main() {
+    me := Developer{
+        Name:       "Ronaldo",
+        Education:  "Computer Engineering",
+        University: "UAJMS — uajms.edu.bo",
+        Focus: []string{
+            "Backend Development",
+            "API Design & REST Architecture",
+            "Distributed Systems",
+            "Software Architecture Patterns",
+        },
+        Mindset:    "Performance-driven. Problem-focused. Always iterating.",
+        OpenSource: "github.com/ron86i/go-siat",
+    }
+    _ = me
+}
+```
+
+---
+
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="25"> Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,java,nodejs,npm,js,ts,postgres,mysql,docker,linux,git,github,postman,bash,vscode,react,tailwind,html,css&perline=12" alt="Stack" />
+    <img src="https://skillicons.dev/icons?i=go,java,nodejs,js,ts,postgres,mysql,docker,linux,git,github,postman,bash,vscode,react,tailwind,html,css&perline=9" alt="Tech Stack" />
   </a>
 </p>
+
+<details>
+  <summary><b>🔍 Stack Breakdown</b></summary>
+  <br/>
+
+  **Backend & Core Languages**
+  - 🐹 **Go** — High-performance services, CLI tools, concurrent systems
+  - ☕ **Java** — Enterprise apps, Spring Boot, robust APIs
+  - 🟩 **Node.js / TypeScript** — REST & GraphQL APIs, event-driven architecture
+
+  **Data**
+  - 🐘 **PostgreSQL** — Primary relational DB of choice
+  - 🐬 **MySQL** — Multi-tenant and legacy system support
+
+  **DevOps & Tools**
+  - 🐳 **Docker** — Containerized deployments, local dev environments
+  - 🐧 **Linux / Bash** — Scripting, automation, server management
+  - 🔧 **Postman** — API testing and documentation
+
+  **Frontend (when needed)**
+  - ⚛️ **React + Tailwind CSS** — Clean, functional UIs
+</details>
 
 ---
 
 ## <img src="https://media.giphy.com/media/qx8pi39gbyvuU/giphy.gif" width="25"> GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ron86i&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Ronaldo's stats" height="150" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ron86i&layout=compact&theme=merko&hide_border=true" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ron86i&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" alt="Ronaldo's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ron86i&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top Languages" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ron86i&theme=merko&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ron86i&theme=merko&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
-## <img src="https://media.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" width="25"> Connect with me
+## 🚀 Featured Project
+
+<table>
+  <tr>
+    <td width="60px" align="center">
+      <img src="https://skillicons.dev/icons?i=go" width="40"/>
+    </td>
+    <td>
+      <a href="https://github.com/ron86i/go-siat"><b>go-siat</b></a> &nbsp;
+      <img src="https://img.shields.io/github/stars/ron86i/go-siat?style=flat-square&color=00FFFF" />
+      <img src="https://img.shields.io/github/forks/ron86i/go-siat?style=flat-square&color=44cc44" />
+      <img src="https://img.shields.io/github/v/release/ron86i/go-siat?style=flat-square&color=orange" />
+      <br/>
+      Professional Go SDK for integrating with <b>SIAT</b> — Bolivia's electronic invoicing system (SIN). Abstracts SOAP complexity, XML digital signatures (XMLDSig), GZIP compression, and catalog management behind a clean, type-safe, idiomatic Go API.
+      <br/><br/>
+      <code>Go</code> &nbsp; <code>SOAP</code> &nbsp; <code>XMLDSig</code> &nbsp; <code>Hexagonal Architecture</code> &nbsp; <code>Bolivia</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💬 What I'm Up To
+
+- 🔭 Building **scalable backend services** with Go & Node.js
+- 🧠 Deepening knowledge in **distributed systems & system design**
+- 📖 Studying **software architecture patterns** (CQRS, Event Sourcing, DDD)
+- ⚡ Experimenting with **performance optimizations** at the infrastructure level
+
+---
+
+## <img src="https://media.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" width="25"> Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ron86i/" target="_blank">
-    <img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="linkedin" width="60" height="60" />
-  </a>
-  <a href="https://t.me/ron86i" target="_blank">
-    <img src="https://skills-icons.vercel.app/api/icons?i=telegram" alt="Telegram" width="60" height="60" />
-  </a>
-  <a href="mailto:ronaldorua86@gmail.com" target="_blank">
-    <img src="https://skills-icons.vercel.app/api/icons?i=gmail" alt="gmail" width="60" height="60" />
-  </a>
+  <a href="https://www.linkedin.com/in/ron86i/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/ron86i" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:ronaldorua86@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
----
+<p align="center">
+  <i>Open to collaborate on backend projects, APIs, and anything performance-critical. Drop me a message!</i>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

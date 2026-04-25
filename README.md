@@ -90,7 +90,7 @@ func main() {
 
 ---
 
-## <img src="https://media.giphy.com/media/qx8pi39gbyvuU/giphy.gif" width="25"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ron86i&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" height="160" />

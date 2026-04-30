@@ -43,7 +43,7 @@ func main() {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,java,nodejs,js,ts,postgres,mysql,docker,linux,git,github,postman,bash,vscode,react,tailwind,html,css&perline=9" />
+    <img src="https://skillicons.dev/icons?i=go,java,nodejs,nestjs,prisma,postgres,mysql,docker,linux,bash,git,github,postman,vscode,ts,js,react,tailwind,html,css&perline=10" alt="Tech Stack" />
   </a>
 </p>
 
